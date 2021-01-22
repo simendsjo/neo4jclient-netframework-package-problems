@@ -2,6 +2,8 @@ framework:net472
 redirects:force
 source https://api.nuget.org/v3/index.json
 
+nuget Neo4jClient
+
 nuget Antlr 3.5.0.2 prerelease
 nuget bootstrap 3.4.1 prerelease
 nuget jQuery 3.4.1 prerelease
